@@ -10,6 +10,6 @@ To _italicize_ the text use _ before and after the word.
 
 To write the `code` snippet use backticks.
 
-# for h1 use #
-## for h2 use ##
-### for h3 use ### and so on..
+# for h1 use `#`
+## for h2 use `##`
+### for h3 use `###` and so on..
