@@ -13,3 +13,14 @@ To write the `code` snippet use backticks.
 # for h1 use `#`
 ## for h2 use `##`
 ### for h3 use `###` and so on..
+
+follow me on [twitter](https://twitter.com/Mrjodhasingh).
+
+To write code in block 
+```
+   If you have to 
+   write code in block
+   like this one,
+   use three backticks
+   before and after
+ ```
